@@ -1,33 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+@font-face {
+        font-family: "Helvetica Neue";
+        src: url(../../public/assets/Fonts/helvetica-neue-5/HelveticaNeueLight.otf);
+}
+*{
+        scroll-behavior: smooth;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+
+@media (max-width:992px) {
+        .overflow {
+                overflow: hidden;
+        }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.ff-neue {
+        font-family: "Helvetica Neue", sans-serif;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.text-g {
+        background: linear-gradient(107.9deg, #0C5FD1 1.25%, #8703C5 93.71%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
 }
+
+
+      .swiper-pagination-bullet-active {
+        opacity: var(--swiper-pagination-bullet-opacity, 1);
+        background: white !important;
+    }
+
+
+
+
+    .swip .swiper-pagination-horizontal {
+        bottom: 0 !important;
+      }
+      
+      .swip .swiper-pagination-bullet-active {
+        opacity: 1 !important;
+        background: #003e92 !important;
+      }
+      .swip .swiper-pagination-vertical {
+        bottom: var(--swiper-pagination-bottom, 8px);
+        top: var(--swiper-pagination-top, auto);
+        left: 0;
+        width: auto !important;
+        position: absolute !important;
+        top: 84% !important;
+        transform: translateX(-50%) !important;
+      }
+    
