@@ -6,15 +6,15 @@ import Image from 'next/image'
 
 const Getsection = () => {
   return (
-    <div className=' pt-[122px] relative'>
-      <Image className=' absolute right-0 top-[25%]' src={rightflower} alt="rightflower" />
+    <div className=' pt-[40px] md:pt-[80px] lg:pt-[122px] relative z-10'>
+      <Image className=' absolute right-0 top-[25%] -z-10' src={rightflower} alt="rightflower" />
       <div className=' container mx-auto px-3'>
         <div className=' flex flex-wrap items-center justify-center '>
           <div className=' flex flex-col'>
             <h3 className=' uppercase ff-neue font-normal text-[35px] md:text-[52px] leading-[44px] md:leading-[66px]'>what you </h3>
             <h2 className=' uppercase ff-neue font-normal text-4xl md:text-6xl text-black'>will <span className=' text-[#F77B0B]'>get</span></h2>
           </div>
-          <Image className='ml-3 mr-[18px]' src={flowerget} alt='#'/>
+          <Image className='ml-3 mr-[18px]' src={flowerget} alt='#' width={224} height={216}/>
           <div className=' border-l-2 border-solid border-[#9800B0]'>
             <p className='max-w-[434px] pl-[11px] font-normal text-sm md:text-base font-Poppins '>I will show you which steps are necessary for you to finally successfully let go of your EX. And I will support you to look confidently into your new future.</p>
           </div>
@@ -74,7 +74,7 @@ const Getsection = () => {
                 </div>
               </div>
               <span>
-                <Image className=' absolute left-0 bottom-[1%]' src={leftflower} alt="leftflower" />
+                <Image className=' absolute left-0 bottom-[1%] -z-10' src={leftflower} alt="leftflower" />
               </span>
             </div>
           </div>

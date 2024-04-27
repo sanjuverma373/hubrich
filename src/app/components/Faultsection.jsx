@@ -7,7 +7,7 @@ const Faultsection = () => {
         return (
                 <div className=' relative z-10 overflow-x-clip'>
                         <div className=' container mx-auto px-3'>
-                                <div className=' mt-[-6%]'>
+                                <div className=' mt-[5%] lg:mt-[-6%]'>
                                         <p className=' inline-block font-Poppins font-light text-lg md:text-xl text-black -rotate-90 ml-[-20px] mb-[11px]'>MJH</p>
                                         <div className=' flex'>
                                                 <div className=' border-s-2 border-b-2 border-[#F77B0B] h-[35px] md:h-[269px] w-[26px]'>
@@ -32,37 +32,37 @@ const Faultsection = () => {
                         <div className='bg-[url(/assets/images/fault-bg-img.png)] bg-cover bg-center bg-no-repeat mb-[47px]'>
                                 <div className=' container mx-auto px-40 '>
                                         <div className=' flex-col lg:flex-row flex items-center justify-end'>
-                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer'>
+                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer mt-[12px] lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>Your self-esteem is in the basement.</p>
                                                         </div>
                                                 </div>
-                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer'>
+                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer mt-[12px] lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[26.5px] font-Poppins font-normal text-sm md:text-base'>You keep asking yourself what you did wrong.
                                                                 </p>
                                                         </div>
                                                 </div>
-                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer'>
+                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer mt-[12px] lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>The feeling of helplessness is your constant companion.</p>
                                                         </div>
                                                 </div>
                                         </div>
-                                        <div className=' flex-col lg:flex-row flex items-center pt-[29px]'>
-                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer'>
+                                        <div className=' flex-col lg:flex-row flex items-center lg:pt-[29px]'>
+                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer mt-[12px] lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>You spend the nights alone and lonely.
                                                                 </p>
                                                         </div>
                                                 </div>
-                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer'>
+                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer mt-[12px] lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[26.5px] font-Poppins font-normal text-sm md:text-base'>You have stopped going out and spend the time crying in your room.
                                                                 </p>
                                                         </div>
                                                 </div>
-                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer'>
+                                                <div className='w-[250px] h-[100px] md:h-[162px] bg-[#003E92] opacity-25 flex items-center justify-center duration-300 hover:opacity-100 cursor-pointer mt-[12px] lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>An emotional chaos is raging inside you.</p>
                                                         </div>

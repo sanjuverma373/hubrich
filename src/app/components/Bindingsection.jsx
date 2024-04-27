@@ -24,40 +24,40 @@ const Bindingsection = () => {
                         <div className='bg-[url(/assets/images/binding-bg-img.png)] bg-cover bg-center bg-no-repeat'>
                         <div className=' container mx-auto px-3 pt-[30px] md:pt-[70px] lg:pt-[111px] pb-[30px] md:pb-[90px] lg:pb-[186px] '>
                                         <div className=' flex items-center justify-center flex-col md:flex-row'>
-                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92]'>
+                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92] mt-3 lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>How do I let go of my EX so I can finally leave him behind?</p>
                                                         </div>
                                                 </div>
-                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92]'>
+                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92] mt-3 lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>How does the divorce process work?</p>
                                                         </div>
                                                 </div>
-                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92]'>
+                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92] mt-3 lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>Do I need a lawyer?</p>
                                                         </div>
                                                 </div>
                                                 
                                         </div>
-                                        <div className=' flex items-center justify-center mt-3 md:mt-[34px] flex-col md:flex-row'>
+                                        <div className=' flex items-center justify-center mt-3 lg:mt-[34px] flex-col md:flex-row'>
                                                 <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92]'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>How much will the divorce cost?</p>
                                                         </div>
                                                 </div>
-                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92]'>
+                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92] mt-3 lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>What will happen to my children?</p>
                                                         </div>
                                                 </div>
-                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92]'>
+                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92] mt-3 lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>What does my future as a single person look like now?</p>
                                                         </div>
                                                 </div>
-                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92]'>
+                                                <div className='w-[250px] h-[150px] md:h-[200px] bg-[#FFFFFF26] flex items-center justify-center cursor-pointer duration-300 hover:bg-[#003E92] mt-3 lg:mt-0'>
                                                         <div className=' flex items-center justify-center'>
                                                                 <p className=' text-white mx-auto px-[38.5px] font-Poppins font-normal text-sm md:text-base'>How do I rebuild my self-esteem?</p>
                                                         </div>
