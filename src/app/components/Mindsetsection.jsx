@@ -58,7 +58,7 @@ const Mindsetsection = () => {
                                                 >
                                                         <SwiperSlide>
                                                                 <div className='bg-[url(/assets/images/slider-bg.png)] bg-cover bg-center bg-no-repeat min-h-[300px] md:min-h-[448px]'>
-                                                                        <div className=' py-[133px]'>
+                                                                        <div className=' py-[54px] md:py-[133px]'>
                                                                                 <p className=' text-center font-Poppins font-medium text-lg md:text-xl text-white pb-[15px] capitalize '>1st phase<span className='block'>"The not-wanting-to-be-true"</span></p>
                                                                                 <p className=' mx-auto text-center text-white font-Poppins font-normal text-sm md:text-base max-w-[364px]'>This phase is characterized by denial and ignoring the final separation.</p>
                                                                         </div>
@@ -66,7 +66,7 @@ const Mindsetsection = () => {
                                                         </SwiperSlide>
                                                         <SwiperSlide>
                                                                 <div className='bg-[url(/assets/images/slider-bg.png)] bg-cover bg-center bg-no-repeat  min-h-[300px] md:min-h-[448px]'>
-                                                                        <div className=' py-[133px]'>
+                                                                        <div className='py-[54px] md:py-[133px]'>
                                                                                 <p className=' text-center font-Poppins font-medium text-lg md:text-xl text-white pb-[15px] capitalize '>2nd phase<span className='block'>"The not-wanting-to-be-true"</span></p>
                                                                                 <p className=' mx-auto text-center text-white font-Poppins font-normal text-sm md:text-base max-w-[364px]'>This phase is characterized by denial and ignoring the final separation.</p>
                                                                         </div>
@@ -74,7 +74,7 @@ const Mindsetsection = () => {
                                                         </SwiperSlide>
                                                         <SwiperSlide>
                                                                 <div className='bg-[url(/assets/images/slider-bg.png)] bg-cover bg-center bg-no-repeat  min-h-[300px] md:min-h-[448px]'>
-                                                                        <div className=' py-[133px]'>
+                                                                        <div className='py-[54px] md:py-[133px]'>
                                                                                 <p className=' text-center font-Poppins font-medium text-lg md:text-xl text-white pb-[15px] capitalize '>3rd phase<span className='block'>"The not-wanting-to-be-true"</span></p>
                                                                                 <p className=' mx-auto text-center text-white font-Poppins font-normal text-sm md:text-base max-w-[364px]'>This phase is characterized by denial and ignoring the final separation.</p>
                                                                         </div>
@@ -82,7 +82,7 @@ const Mindsetsection = () => {
                                                         </SwiperSlide>
                                                         <SwiperSlide>
                                                                 <div className='bg-[url(/assets/images/slider-bg.png)] bg-cover bg-center bg-no-repeat  min-h-[300px] md:min-h-[448px]'>
-                                                                        <div className=' py-[133px]'>
+                                                                        <div className='py-[54px] md:py-[133px]'>
                                                                                 <p className=' text-center font-Poppins font-medium text-lg md:text-xl text-white pb-[15px] capitalize '>4th phase<span className='block'>"The not-wanting-to-be-true"</span></p>
                                                                                 <p className=' mx-auto text-center text-white font-Poppins font-normal text-sm md:text-base max-w-[364px]'>This phase is characterized by denial and ignoring the final separation.</p>
                                                                         </div>
